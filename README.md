@@ -74,11 +74,3 @@ const demir = {
 | [Echoes](https://github.com/azdemir/echoes-mvp) | Next.js · LLM API | Future-self simulation — state a decision, hold real in-character chats with your +5/+15/+30-year selves, get a closing synthesis. |
 
 ---
-
-### 🔬 Currently
-
-- 🏆 **Meta Global AI Developer Hackathon** — Wavva Lens, Startup track
-- 🧪 Test-automation R&D — self-healing locators, visual grounding
-- 📹 Faceless **AI tools & automation** YouTube channel
-
----
