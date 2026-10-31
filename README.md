@@ -82,5 +82,3 @@ const demir = {
 - 📹 Faceless **AI tools & automation** YouTube channel
 
 ---
-
-<p align="center"><i>Always shipping. Always learning.</i></p>
