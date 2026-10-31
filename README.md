@@ -2,20 +2,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Founder;AI+SaaS+Builder;Test+Automation+Researcher;Shipping+Real+Products" alt="typing intro" />
 </p>
 
-<h3 align="center">Demir — I build and ship production software.</h3>
+<h3 align="center">Demir — I build software.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=azdemir&style=flat-square&color=blue" alt="profile views" />
   <img src="https://img.shields.io/github/followers/azdemir?style=flat-square" alt="followers" />
 </p>
 
-```typescript
-const demir = {
-  role: "Founder & Full-Stack Engineer",
-  specialties: ["AI voice agents", "Self-healing test automation", "Multi-tenant SaaS", "Computer vision pipelines"],
-  currently: "Competing in the Meta Global AI Developer Hackathon",
-  philosophy: "Ship real products. Verify everything. No hype.",
-};
 ```
 
 ---
