@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/github/followers/azdemir?style=flat-square" alt="followers" />
 </p>
 
-```
 
 ---
 
