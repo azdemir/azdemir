@@ -42,18 +42,18 @@
 ### 📊 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=azdemir&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" height="170" />
   <img src="https://streak-stats.demolab.com?user=azdemir&theme=tokyonight&hide_border=true" alt="Contribution streak" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=azdemir&theme=tokyo-night&hide_border=true" alt="Contribution graph" />
-</p>
+**Top languages** — computed from my public repos:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azdemir&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
-  <img src="https://github-profile-trophy.vercel.app/?username=azdemir&theme=tokyonight&no-frame=true&column=7" alt="Trophies" />
-</p>
+| Language | Share |
+|---|---|
+| TypeScript | 44% |
+| JavaScript | 30% |
+| HTML | 17% |
+| CSS | 7% |
+| Java | 1% |
 
 ---
 
