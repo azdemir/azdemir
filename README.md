@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Founder;AI+SaaS+Builder;Test+Automation+Researcher;Shipping+Real+Products" alt="typing intro" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Builder;Test+Automation+Researcher" alt="typing intro" />
 </p>
 
 <h3 align="center">Demir — I build software.</h3>
