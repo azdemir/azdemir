@@ -42,18 +42,6 @@
   <img src="https://streak-stats.demolab.com?user=azdemir&theme=tokyonight&hide_border=true" alt="Contribution streak" height="170" />
 </p>
 
-**Top languages** — computed from my public repos:
-
-| Language | Share |
-|---|---|
-| TypeScript | 44% |
-| JavaScript | 30% |
-| HTML | 17% |
-| CSS | 7% |
-| Java | 1% |
-
----
-
 ### 🚀 Featured builds
 
 | Project | Stack | What it does |
