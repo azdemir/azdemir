@@ -59,10 +59,8 @@ Recent pull requests to tools I use daily — open for maintainer review:
 
 | PR | Project | Fix |
 |---|---|---|
-| [#23123](https://github.com/appium/appium/pull/23123) | Appium | Discover hoisted workspace drivers in monorepos |
 | [#3487](https://github.com/selenide/selenide/pull/3487) | Selenide | Stop creating downloads folder eagerly at startup |
 | [#1625](https://github.com/h3js/h3/pull/1625) | h3 | Return 412 (not 304) for `If-None-Match` on non-GET/HEAD |
-| [#11810](https://github.com/vitest-dev/vitest/pull/11810) | Vitest | Allow `--bail` without a value |
 | [#526](https://github.com/mskelton/eslint-plugin-playwright/pull/526) | eslint-plugin-playwright | Don't autofix `prefer-to-have-count` when the variable is read elsewhere |
 | [#525](https://github.com/mskelton/eslint-plugin-playwright/pull/525) | eslint-plugin-playwright | Flag interpolated template-literal locators again |
 | [#320](https://github.com/healenium/healenium-web/pull/320) | Healenium | Send a body with `initReport`; skip TestNG frames |
