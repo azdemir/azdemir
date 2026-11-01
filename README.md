@@ -64,6 +64,8 @@ Recent pull requests to tools I use daily — open for maintainer review:
 | [#526](https://github.com/mskelton/eslint-plugin-playwright/pull/526) | eslint-plugin-playwright | Don't autofix `prefer-to-have-count` when the variable is read elsewhere |
 | [#525](https://github.com/mskelton/eslint-plugin-playwright/pull/525) | eslint-plugin-playwright | Flag interpolated template-literal locators again |
 | [#320](https://github.com/healenium/healenium-web/pull/320) | Healenium | Send a body with `initReport`; skip TestNG frames |
+| [#5782](https://github.com/codeceptjs/CodeceptJS/pull/5782) | CodeceptJS | Map TS step line/column back to `.ts` source via inline sourcemaps |
+| [#16330](https://github.com/webdriverio/webdriverio/pull/16330) | WebdriverIO | Exact-match `id`/`attr` in text selectors (fix adopted by maintainer) |
 | [#319](https://github.com/healenium/healenium-web/pull/319) | Healenium | Restore wait flags on nested `SelfHealingDriverWait` exits |
 
 ---
