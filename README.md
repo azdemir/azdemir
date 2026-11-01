@@ -15,7 +15,7 @@
 - **AI voice agents** — built Wavva's AI front office: Twilio telephony + LLM orchestration, AI scheduling, automated SMS/email follow-ups, per-tenant billing with Stripe.
 - **Test automation research** — reverse-engineered Healenium's self-healing engine from OSS bytecode (heuristic LCS + Levenshtein scoring, exact weights) and built Mimic's 4-signal healing engine on top of that research.
 - **Full-stack SaaS** — multi-tenant Next.js + PostgreSQL platform: role-based access, seat limits, trial/overage billing, i18n, Playwright regression suite (83 scenarios).
-- **Vision pipelines** — Wavva Lens: SAM 3.1 segmentation wired into a photo → quote → booking workflow for the Meta hackathon.
+- **Vision pipelines** — Wavva Lens: SAM 3.1 segmentation wired into a photo → quote → booking workflow.
 
 ---
 
@@ -47,7 +47,7 @@
 | Project | Stack | What it does |
 |---|---|---|
 | [Wavva](https://github.com/azdemir/wavva) | Next.js · PostgreSQL · Stripe · Twilio | **Flagship.** AI front office for service businesses — AI call answering, smart scheduling, automated follow-ups, tiered SaaS billing. |
-| [Wavva Lens](https://github.com/azdemir/wavva-lens) | Next.js · SAM 3.1 · Vercel | Meta hackathon entry — photo-to-quote-and-booking for cleaning businesses; vision segmentation + owner rule engine + booking flow. |
+| [Wavva Lens](https://github.com/azdemir/wavva-lens) | Next.js · SAM 3.1 · Vercel | photo-to-quote-and-booking for cleaning businesses; vision segmentation + owner rule engine + booking flow. |
 | [Mimic](https://github.com/azdemir/mimic-landing) | TypeScript · Playwright | Self-healing test recorder — record one manual QA pass, get a runnable Playwright spec with a 4-signal healing engine (heals ≥ 0.80, fails loudly below). |
 | [Echoes](https://github.com/azdemir/echoes-mvp) | Next.js · LLM API | Future-self simulation — state a decision, hold real in-character chats with your +5/+15/+30-year selves, get a closing synthesis. |
 
